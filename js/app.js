@@ -133,12 +133,14 @@ class GooayeApp {
             `EP${episode.episode} · ${this.formatDate(episode.date)}`;
         document.getElementById('modalTitle').textContent = episode.title;
         
-        let bodyContent = this.formatContent(episode.content);
+        let bodyContent = '';
         
-        // Add companies section if available
+        // Add companies section FIRST if available
         if (episode.companies && episode.companies.length > 0) {
             bodyContent += this.formatCompanies(episode.companies);
         }
+        
+        bodyContent += this.formatContent(episode.content);
         
         document.getElementById('modalBody').innerHTML = bodyContent;
         
