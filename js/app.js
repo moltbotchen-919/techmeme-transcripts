@@ -27,6 +27,8 @@ class GooayeApp {
             const response = await fetch('data/episodes.json');
             const data = await response.json();
             this.episodes = data.episodes || [];
+            // Sort by date descending (most recent first)
+            this.episodes.sort((a, b) => new Date(b.date) - new Date(a.date));
             this.filteredEpisodes = [...this.episodes];
         } catch (error) {
             console.error('Failed to load episodes:', error);
