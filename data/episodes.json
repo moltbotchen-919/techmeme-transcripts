@@ -1,34 +1,242 @@
 {
   "episodes": [
     {
+      "id": "0add16169b6c",
+      "date": "2026-01-28",
+      "title": "The Amazon Layoffs",
+      "titleZh": "Amazon 大裁員：16,000 人丟工作",
+      "summary": "Amazon 按預期進行第二輪大裁員。Tether 是否推動了黃金價格上漲？Samsung 推出新型隱私螢幕技術。Elon 想在生日時讓 SpaceX IPO。Anthropic IPO 前再次募資，AI 在太空中發現奇怪現象。",
+      "content": "## 📊 Amazon 大裁員\n\n- Amazon 宣布裁員 **16,000 人**，這是繼 10 月份裁員 14,000 人後的第二輪裁員\n- 裁員原因：「減少層級、增加主動權、消除官僚主義」\n- 人力資源副總裁 Beth Galetti 強調這不是每幾個月進行大裁員的新模式\n- 關閉 Amazon Go 和 Amazon Fresh 實體店，專注同日雜貨配送\n- 計劃擴大 Whole Foods，未來幾年開設 100 家新店\n\n---\n\n## 🥇 Tether：黃金巨鯨\n\n- Tether 持有 **140 噸黃金**，價值約 **230 億美元**\n- 每週購買 **1-2 噸黃金**，計劃持續數月\n- 去年購買超過 70 噸黃金，僅次於波蘭央行（102 噸）\n- CEO Paolo Arduino：扮演類似央行角色，預測地緣政治對手將推出黃金支撐的美元替代方案\n- 將黃金儲存在瑞士前核掩體中，採用多層鋼門防護\n\n---\n\n## 📱 Samsung 隱私顯示技術\n\n- **Galaxy S26** 系列將引入「像素級隱私」顯示技術\n- 防止「肩窺」：正面清晰，側面變暗\n- 採用 Flex Magic Pixel OLED 技術\n- 用戶可自定義哪些應用觸發隱私模式\n- 預計 2 月 25 日發布\n\n---\n\n## 🚀 SpaceX IPO：配合行星排列\n\n- SpaceX 計劃在 **6 月中旬** IPO\n- 目標募資 **500 億美元**，估值 **1.5 兆美元**\n- 時間選擇：木星與金星排列（3 年來首次）+ Musk 生日（6 月 28 日）\n- 若成功將成為史上最大 IPO，超越沙烏地阿美的 290 億美元\n- Bank of America、Goldman Sachs、JP Morgan、Morgan Stanley 擔任主承銷商\n\n---\n\n## 🤖 Anthropic 融資翻倍\n\n### 融資詳情\n- 目標融資從 100 億翻倍至 **200 億美元**\n- 公司估值 **3,500 億美元**\n- 投資需求為目標的 5-6 倍\n- 新加坡 GIC、Coatue 領投，Sequoia 等參與\n- Microsoft、Nvidia 額外投資 **150 億美元**\n\n### 收入預測大幅上調\n- **2025 年**：收入將翻四倍至 **180 億美元**\n- **2026 年**：預計達 **550 億美元**\n- **2029 年**：預期收入 **1,480 億美元**\n- Claude Code 編程代理年化收入超過 **10 億美元**\n- 預計 **2028 年** 實現正現金流，比 OpenAI 更早\n\n---\n\n## 🔬 AI 發現太空異常\n\n- ESA 使用 AI 模型「異常匹配」掃描哈勃太空望遠鏡資料\n- **2.5 天**內處理 **1 億張**圖像\n- 發現約 **1,400 個**異常天體\n- 包括：星系合併、引力透鏡、水母星系、神秘未分類物體\n\n---\n\n## 💰 Ride Home Fund 投資更新\n\n- CrowdStrike 以 **7.4 億美元**收購 Signal（AI 身份安全新創）\n- Signal 是 Ride Home Fund 的投資組合公司",
+      "tags": [
+        "layoffs",
+        "crypto",
+        "gold",
+        "privacy",
+        "IPO",
+        "AI",
+        "space",
+        "investment"
+      ],
+      "companies": [
+        {
+          "ticker": "AMZN",
+          "name": "Amazon",
+          "note": "裁員 16,000 人，關閉 Go/Fresh 店面，擴大 Whole Foods"
+        },
+        {
+          "ticker": null,
+          "name": "Tether",
+          "note": "持有 140 噸黃金價值 230 億美元，每週購買 1-2 噸"
+        },
+        {
+          "ticker": null,
+          "name": "Samsung",
+          "note": "Galaxy S26 像素級隱私顯示技術，2 月 25 日發布"
+        },
+        {
+          "ticker": null,
+          "name": "SpaceX",
+          "note": "6 月 IPO 募資 500 億美元，估值 1.5 兆美元"
+        },
+        {
+          "ticker": null,
+          "name": "Anthropic",
+          "note": "融資翻倍至 200 億美元，估值 3,500 億美元"
+        },
+        {
+          "ticker": "MSFT",
+          "name": "Microsoft",
+          "note": "投資 Anthropic，Microsoft 365 Copilot 贊助商"
+        },
+        {
+          "ticker": "NVDA",
+          "name": "NVIDIA",
+          "note": "投資 Anthropic 150 億美元"
+        },
+        {
+          "ticker": "HSBC",
+          "name": "HSBC",
+          "note": "資深黃金交易員離職加入 Tether"
+        },
+        {
+          "ticker": "CRWD",
+          "name": "CrowdStrike",
+          "note": "7.4 億美元收購 AI 身份安全新創 Signal"
+        },
+        {
+          "ticker": "BAC",
+          "name": "Bank of America",
+          "note": "SpaceX IPO 主承銷商"
+        },
+        {
+          "ticker": "GS",
+          "name": "Goldman Sachs",
+          "note": "SpaceX IPO 主承銷商"
+        },
+        {
+          "ticker": "JPM",
+          "name": "JPMorgan Chase",
+          "note": "SpaceX IPO 主承銷商"
+        },
+        {
+          "ticker": "MS",
+          "name": "Morgan Stanley",
+          "note": "SpaceX IPO 主承銷商"
+        },
+        {
+          "ticker": null,
+          "name": "OpenAI",
+          "note": "Anthropic 主要競爭對手，預計 2030 年正現金流"
+        },
+        {
+          "ticker": null,
+          "name": "ESA",
+          "note": "歐洲太空總署，使用 AI 發現哈勃資料異常"
+        },
+        {
+          "ticker": null,
+          "name": "Sequoia Capital",
+          "note": "投資 Anthropic"
+        },
+        {
+          "ticker": null,
+          "name": "GIC",
+          "note": "新加坡主權基金，領投 Anthropic"
+        },
+        {
+          "ticker": null,
+          "name": "Coatue",
+          "note": "領投 Anthropic"
+        },
+        {
+          "ticker": null,
+          "name": "Signal",
+          "note": "AI 身份安全新創，被 CrowdStrike 收購"
+        },
+        {
+          "ticker": null,
+          "name": "Whole Foods",
+          "note": "Amazon 旗下，計劃擴展 100 家新店"
+        }
+      ]
+    },
+    {
       "id": "e2c6aca5b343",
       "date": "2026-01-29",
       "title": "Clawdbot Is Now Moltbot",
       "titleZh": "Clawdbot 正式更名為 Moltbot",
       "summary": "Meta 財報佳，市場看好 AI 投資。Microsoft 財報差，Azure 雲端成長放緩。Tesla 全面轉向機器人和 AI。Dow 化學公司 AI 裁員。Waymo 自駕車事故調查。Moltbot 安全疑慮。",
       "content": "## 📈 財報重點\n\n### Meta（META）表現亮眼\n- 股價上漲近 8%\n- 2026 年資本支出預計達 **$1,150-1,350 億美元**（去年 $722 億）\n- Zuckerberg：「2025 年我們重建了 AI 計畫的基礎」\n- 重點發展 **AI 購物代理**，利用個人資料提供獨特體驗\n- Google、OpenAI、Stripe、Uber 也在發展類似 AI 代理交易平台\n\n### Microsoft（MSFT）令人失望\n- 股價暴跌近 **12%**\n- Azure 雲端成長從 40% 放緩至 **39%**\n- 資本支出增加 66% 至 $375 億\n- 面臨 GPU 算力不足的問題\n- 雲端合約積壓達 $6,250 億，其中 45% 來自 OpenAI\n\n### SK Hynix 首次超越 Samsung\n- 年營業利潤達 **$330 億**（Samsung $305 億）\n- 原因：AI 帶動記憶體晶片需求爆發\n\n---\n\n## 🚗 Tesla 全面轉型\n\n- **停產 Model S 和 Model X**\n- 加州工廠將轉型為 **Optimus 機器人製造中心**\n- 投資 $20 億進入 Musk 的 xAI（SpaceX 也投了 $20 億）\n- Musk：「雖然有點可惜，但這是我們邁向自動化未來的一部分」\n- Tesla 自稱為「實體 AI 公司」\n- 年營收首次下滑，受 EV 補貼取消、BYD 競爭等影響\n\n---\n\n## 🏭 Dow 化學大裁員\n\n- 計劃裁員 **4,500 人**（總員工 34,000）\n- 推出「Transform to Outperform」計畫\n- 將使用 AI 和自動化提升生產力\n- 預計節省成本 $20 億\n\n---\n\n## 🚕 Waymo 自駕車事故\n\n- 1 月 23 日在 Santa Monica 小學附近撞到兒童\n- 時速 6 英里，兒童輕傷\n- 兒童從 SUV 後方突然衝出\n- NHTSA 已開啟調查\n- Waymo 同時面臨「非法超越校車」的調查（亞特蘭大、奧斯汀約 20 起）\n\n---\n\n## 🤖 AI 新創動態：Acre AI\n\n- 美國 30 人新創公司\n- 發布 **Trinity Large**：4000 億參數開源模型\n- 對標 Meta Llama 4 和中國清華大學的 GLM 4.5\n- 6 個月內用 2048 個 NVIDIA B300 GPU 訓練完成\n- 總成本僅 **$2,000 萬**\n\n---\n\n## 🔐 Moltbot 安全警告\n\n**重大更新：Clawdbot 正式更名為 Moltbot**（Anthropic 律師出動了）\n\n### 安全疑慮\n- 需要專業技術才能安全使用\n- 即使正確設定，仍存在資料外洩風險\n\n### 發現的問題\n1. **公開曝露**：數百個 Moltbot 實例暴露在網路上\n2. **憑證儲存**：密碼和 API 金鑰以明文存在 Markdown/JSON 檔案\n3. **惡意軟體風險**：Redline、Luma、Vidar 等惡意軟體已開始針對 Moltbot\n\n### 專家建議\n- 安裝容易，但安全配置需要深入理解 API 治理\n- 許多用戶沒有追蹤分享給系統的個人和企業憑證\n- Hudson Rock：「Moltbot 代表個人 AI 的未來，但其安全架構仍依賴過時的端點信任模型」",
-      "tags": ["earnings", "AI", "cloud", "robotics", "security", "EV", "layoffs"],
+      "tags": [
+        "earnings",
+        "AI",
+        "cloud",
+        "robotics",
+        "security",
+        "EV",
+        "layoffs"
+      ],
       "companies": [
-        {"ticker": "META", "name": "Meta", "note": "財報佳，AI CapEx 將達 $1150-1350 億"},
-        {"ticker": "MSFT", "name": "Microsoft", "note": "股價跌 12%，Azure 雲端成長放緩至 39%"},
-        {"ticker": "TSLA", "name": "Tesla", "note": "停產 Model S/X，轉型 Optimus 機器人工廠"},
-        {"ticker": "NVDA", "name": "NVIDIA", "note": "GPU 需求持續，Acre AI 用 B300 訓練模型"},
-        {"ticker": null, "name": "SK Hynix", "note": "首次超越 Samsung，年營業利潤 $330 億"},
-        {"ticker": null, "name": "Samsung", "note": "記憶體晶片，年營業利潤 $305 億"},
-        {"ticker": null, "name": "xAI", "note": "Musk AI 公司，Tesla 和 SpaceX 各投資 $20 億"},
-        {"ticker": null, "name": "SpaceX", "note": "投資 xAI $20 億"},
-        {"ticker": "DOW", "name": "Dow", "note": "AI 裁員 4,500 人，Transform to Outperform 計畫"},
-        {"ticker": null, "name": "Waymo", "note": "自駕車撞到兒童事故，NHTSA 調查中"},
-        {"ticker": null, "name": "BYD", "note": "中國低價電動車競爭對手"},
-        {"ticker": "GOOGL", "name": "Google", "note": "AI agent 電商平台"},
-        {"ticker": null, "name": "OpenAI", "note": "Microsoft 雲端合約 45%，AI agent 平台"},
-        {"ticker": null, "name": "Anthropic", "note": "AI 模型公司"},
-        {"ticker": null, "name": "Acre AI", "note": "美國新創，發布 400B 參數 Trinity 模型"},
-        {"ticker": "UBER", "name": "Uber", "note": "AI agent 電商合作夥伴"},
-        {"ticker": null, "name": "Stripe", "note": "AI agent 電商合作夥伴"},
-        {"ticker": "RBRK", "name": "Rubrik", "note": "贊助商，AI Agent Cloud 平台"},
-        {"ticker": null, "name": "PLAUD", "note": "贊助商，AI 筆記設備"},
-        {"ticker": null, "name": "Hudson Rock", "note": "資安公司，發現 Moltbot 安全漏洞"}
+        {
+          "ticker": "META",
+          "name": "Meta",
+          "note": "財報佳，AI CapEx 將達 $1150-1350 億"
+        },
+        {
+          "ticker": "MSFT",
+          "name": "Microsoft",
+          "note": "股價跌 12%，Azure 雲端成長放緩至 39%"
+        },
+        {
+          "ticker": "TSLA",
+          "name": "Tesla",
+          "note": "停產 Model S/X，轉型 Optimus 機器人工廠"
+        },
+        {
+          "ticker": "NVDA",
+          "name": "NVIDIA",
+          "note": "GPU 需求持續，Acre AI 用 B300 訓練模型"
+        },
+        {
+          "ticker": null,
+          "name": "SK Hynix",
+          "note": "首次超越 Samsung，年營業利潤 $330 億"
+        },
+        {
+          "ticker": null,
+          "name": "Samsung",
+          "note": "記憶體晶片，年營業利潤 $305 億"
+        },
+        {
+          "ticker": null,
+          "name": "xAI",
+          "note": "Musk AI 公司，Tesla 和 SpaceX 各投資 $20 億"
+        },
+        {
+          "ticker": null,
+          "name": "SpaceX",
+          "note": "投資 xAI $20 億"
+        },
+        {
+          "ticker": "DOW",
+          "name": "Dow",
+          "note": "AI 裁員 4,500 人，Transform to Outperform 計畫"
+        },
+        {
+          "ticker": null,
+          "name": "Waymo",
+          "note": "自駕車撞到兒童事故，NHTSA 調查中"
+        },
+        {
+          "ticker": null,
+          "name": "BYD",
+          "note": "中國低價電動車競爭對手"
+        },
+        {
+          "ticker": "GOOGL",
+          "name": "Google",
+          "note": "AI agent 電商平台"
+        },
+        {
+          "ticker": null,
+          "name": "OpenAI",
+          "note": "Microsoft 雲端合約 45%，AI agent 平台"
+        },
+        {
+          "ticker": null,
+          "name": "Anthropic",
+          "note": "AI 模型公司"
+        },
+        {
+          "ticker": null,
+          "name": "Acre AI",
+          "note": "美國新創，發布 400B 參數 Trinity 模型"
+        },
+        {
+          "ticker": "UBER",
+          "name": "Uber",
+          "note": "AI agent 電商合作夥伴"
+        },
+        {
+          "ticker": null,
+          "name": "Stripe",
+          "note": "AI agent 電商合作夥伴"
+        },
+        {
+          "ticker": "RBRK",
+          "name": "Rubrik",
+          "note": "贊助商，AI Agent Cloud 平台"
+        },
+        {
+          "ticker": null,
+          "name": "PLAUD",
+          "note": "贊助商，AI 筆記設備"
+        },
+        {
+          "ticker": null,
+          "name": "Hudson Rock",
+          "note": "資安公司，發現 Moltbot 安全漏洞"
+        }
       ]
     }
   ]
