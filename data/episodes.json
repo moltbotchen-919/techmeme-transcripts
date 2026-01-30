@@ -1,0 +1,34 @@
+{
+  "episodes": [
+    {
+      "id": "e2c6aca5b343",
+      "date": "2026-01-29",
+      "title": "Clawdbot Is Now Moltbot",
+      "summary": "Meta 財報佳，市場看好 AI 投資。Microsoft 財報差，Azure 雲端成長放緩。Tesla 全面轉向機器人和 AI。Dow 化學公司 AI 裁員。Waymo 自駕車事故調查。Moltbot 安全疑慮。",
+      "content": "Welcome to the Techbury Red Humb for Thursday, January 29th, 2026. I'm Brian McCullough...",
+      "tags": ["earnings", "AI", "cloud", "robotics", "security"],
+      "companies": [
+        {"ticker": "META", "name": "Meta", "note": "財報佳，AI CapEx 將達 $1150-1350 億"},
+        {"ticker": "MSFT", "name": "Microsoft", "note": "股價跌 12%，Azure 雲端成長放緩至 39%"},
+        {"ticker": "TSLA", "name": "Tesla", "note": "停產 Model S/X，轉型 Optimus 機器人工廠"},
+        {"ticker": "NVDA", "name": "NVIDIA", "note": "GPU 需求持續，Acre AI 用 B300 訓練模型"},
+        {"ticker": null, "name": "SK Hynix", "note": "首次超越 Samsung，年營業利潤 $330 億"},
+        {"ticker": null, "name": "Samsung", "note": "記憶體晶片，年營業利潤 $305 億"},
+        {"ticker": null, "name": "xAI", "note": "Musk AI 公司，Tesla 和 SpaceX 各投資 $20 億"},
+        {"ticker": null, "name": "SpaceX", "note": "投資 xAI $20 億"},
+        {"ticker": "DOW", "name": "Dow", "note": "AI 裁員 4,500 人，Transform to Outperform 計畫"},
+        {"ticker": null, "name": "Waymo", "note": "自駕車撞到兒童事故，NHTSA 調查中"},
+        {"ticker": null, "name": "BYD", "note": "中國低價電動車競爭對手"},
+        {"ticker": "GOOGL", "name": "Google", "note": "AI agent 電商平台"},
+        {"ticker": null, "name": "OpenAI", "note": "Microsoft 雲端合約 45%，AI agent 平台"},
+        {"ticker": null, "name": "Anthropic", "note": "AI 模型公司"},
+        {"ticker": null, "name": "Acre AI", "note": "美國新創，發布 400B 參數 Trinity 模型"},
+        {"ticker": "UBER", "name": "Uber", "note": "AI agent 電商合作夥伴"},
+        {"ticker": null, "name": "Stripe", "note": "AI agent 電商合作夥伴"},
+        {"ticker": "RBRK", "name": "Rubrik", "note": "贊助商，AI Agent Cloud 平台"},
+        {"ticker": null, "name": "PLAUD", "note": "贊助商，AI 筆記設備"},
+        {"ticker": null, "name": "Hudson Rock", "note": "資安公司，發現 Moltbot 安全漏洞"}
+      ]
+    }
+  ]
+}
